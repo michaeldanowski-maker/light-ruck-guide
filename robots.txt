@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michaeldanowski-maker.github.io/light-ruck-guide/sitemap.xml
